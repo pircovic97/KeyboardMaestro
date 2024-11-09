@@ -11,3 +11,5 @@ What Website Will Contain :
     * Set a countdown time for each test
     * Activate the timer when the user clicks on START
 - When the timer runs out, display how many words the user typed per minute.
+- Calculate the accuracy (%) of the user’s inputs.
+- Different types of tests for different use cases: text only, numbers only, emoji only, etc.
